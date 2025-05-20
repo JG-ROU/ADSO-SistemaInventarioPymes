@@ -5,11 +5,11 @@
 - **Jhordy Dayan Gómez Olaya**
 
 ## Scrum Master
-- **Miguel Ulises Lozano Vergara**
+- **Carlos Labrada Caicedo**
 
 ## Developers
-- **Jorge Davis Gutiérrez Arias** (Backend Java)
-- **Carlos Labrada Caicedo** (Backend Python)
+- **Miguel Ulises Lozano Vergara** (Backend Java)
+- **Jorge David Gutiérrez Arias** (Backend Python)
 - **Todos colaboran** (Frontend React)
 
 ## Descripción de Roles
