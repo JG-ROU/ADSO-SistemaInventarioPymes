@@ -23,7 +23,7 @@ El desarrollo se realizará en paralelo utilizando tres enfoques tecnológicos:
 ## Equipo de Desarrollo
 - Jhordy Dayan Gómez Olaya
 - Miguel Ulises Lozano Vergara
-- Jorge Davis Gutiérrez Arias
+- Jorge David Gutiérrez Arias
 - Carlos Labrada Caicedo
 
 ## Metodología
